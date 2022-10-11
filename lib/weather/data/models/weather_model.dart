@@ -1,4 +1,4 @@
-import 'package:weather/weather/domain/entities/weather.dart';
+import '../../domain/entities/weather.dart';
 
 class WeatherModel extends Weather {
   WeatherModel(
